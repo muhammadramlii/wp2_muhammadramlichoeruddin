@@ -6,7 +6,7 @@ class Contoh1 extends CI_Controller
 echo "<h1>Perkenalkan</h1>";
 echo"Nama saya Muhammad Ramli
 saya tinggal di daerah duren sawit
-olah raga yang saya sukai bulutangkis";
+olah raga yang saya sukai bulutangkis":
 }
 }
 
